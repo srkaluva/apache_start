@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "installing webserver"
+echo "installing httpd"
 
 sudo yum install httpd -y
 
