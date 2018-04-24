@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "installing httpd1"
+echo "installing httpd2"
 
 sudo yum install httpd -y
 
