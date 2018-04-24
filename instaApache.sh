@@ -6,6 +6,6 @@ sudo yum install httpd -y
 
 echo "starting httpd"
 
-sudo services httpd start
+sudo service httpd start
 
 exit 0
